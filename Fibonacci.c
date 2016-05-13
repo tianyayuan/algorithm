@@ -2,7 +2,7 @@
 //  Fibonacci.c
 //  algorithm
 //
-//  Created by 王鑫磊 on 5/13/16.
+//  Created by wxl on 5/13/16.
 //  Copyright © 2016 wang. All rights reserved.
 
 #include<stdio.h>
